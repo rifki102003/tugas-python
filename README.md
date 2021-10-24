@@ -11,3 +11,5 @@ Berikut langkah - langkah nya.<p>
 3.lalu anda klik kanan file python nya pilih open dan pilih run nanti muncul perintah install karena di sini saya sudah menginstall jadi pemberitahuan nya seperti ini.<p>
 ![Gambar 3](screenshot/pp9.PNG)     
 ![Gambar 4](screenshot/pp12.PNG)
+4.Jika sudah terinstall kalian pergi ke jendela windows di pojok kiri bawah lalu klik cari file IDLE(Python.3.10 64 bit)dan masuk ke file nya nanti akan muncul seperti ini.<p>
+![Gambar 5](screenshot/pp10.PNG)
