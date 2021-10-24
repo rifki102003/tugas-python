@@ -55,4 +55,8 @@ Jika sudah di buat kalian bisa langsung Klik run untuk menjalankan program kalia
     THANK YOU
 ![gambar 19](screenshot/pp19.PNG)
 
+Seperti Itulah yang bisa saya sampaikan untuk penggunaan python terimakasih Wassalamuallaikum wr wb.<p>
+![gambar 80](screenshot/ss2.PNG)
+Berikut cara untuk memasukan file folder python ke github dengan menggunakan git<p>
+
        
